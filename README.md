@@ -7,9 +7,9 @@ This project investigates the impact of socioeconomic and demographic factors on
 
 ## Project Structure
 
-- **Data**: Contains the datasets used in the analysis, including cancer rates and socioeconomic indicators.
+- **Datasets**: Contains the datasets used in the analysis, including cancer rates and socioeconomic indicators.
 - **Notebooks**: Jupyter notebooks that walk through the exploratory data analysis, correlation analysis, and regression modeling.
-- **Presentation**: PowerPoint presentation summarizing the key findings and implications for public health strategies.
+- **Presentation**: Plotly Dashboard code and PowerPoint presentations summarizing the key findings and implications for public health strategies.
 - **Reports**: Detailed report generated from the analysis, including statistical summaries and interpretive commentary.
 
 ## Data Sources
